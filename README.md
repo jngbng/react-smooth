@@ -1,5 +1,7 @@
 # react-smooth
 
+> ATTENTION! This is a fork with the sole purpose of being compatible with concurrent react. The goal is to always be a feature release ahead of the original package. Once the original package is on feature parity maintenance of this fork will be dropped.
+
 react-smooth is a animation library work on React.
 
 [![npm version](https://badge.fury.io/js/react-smooth.png)](https://badge.fury.io/js/react-smooth)
