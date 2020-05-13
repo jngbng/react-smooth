@@ -1,5 +1,5 @@
 {
-  "name": "react-smooth",
+  "name": "@jbseo/react-smooth",
   "version": "1.0.5",
   "description": "react animation library",
   "main": "lib/index",
